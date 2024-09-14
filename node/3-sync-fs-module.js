@@ -1,3 +1,4 @@
+// This module covers concept related to the sync file module 
 const { readFileSync, writeFileSync } = require("fs");
 const path = require("path");
 
